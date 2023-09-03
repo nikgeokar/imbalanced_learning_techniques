@@ -1,1 +1,1 @@
-# imbalanced_learning_techniques
+# Imbalanced Learning Techniques
